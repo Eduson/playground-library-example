@@ -1,1 +1,3 @@
-# playground-library-example
+# Пример формата описания упражнений
+
+* [Описани формата и вопросы](./proposal-exercise-format.md)
