@@ -1,11 +1,3 @@
-Block code "fences"
+### Подсказка
 
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {}
-```
+Оператор `DISTINCT` поможет найти и вывести уникальные значения.

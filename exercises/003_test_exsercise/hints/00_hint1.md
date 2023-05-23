@@ -1,11 +1,5 @@
-Block code "fences"
+### Подсказка 1
 
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {}
-```
+Извлеките часть поля формата «дата» с помощью одной из функций:
++ `DATE()`;
++ `EXTRACT()`.
