@@ -1,0 +1,1 @@
+SELECT oid, nspname, nspowner FROM pg_catalog.pg_namespace
