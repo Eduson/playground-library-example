@@ -1,7 +1,3 @@
-## Tables
+### Подсказка 2
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+В 2023 году люди «25 лет и старше» — те, кто родился до 1 января 1999 года.
