@@ -1,3 +1,3 @@
-SELECT DISTINCT id_type
+SELECT DISTINCT type_id
 FROM products
 WHERE selling_price BETWEEN 100 AND 500
